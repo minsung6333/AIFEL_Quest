@@ -1,4 +1,4 @@
-# AIFFEL Campus Online 4th Code Peer Review Templete
+# AIFFEL Campus Online 6th Code Peer Review 
 - coder : Hojae Jeong
 - reviewer : 
 
