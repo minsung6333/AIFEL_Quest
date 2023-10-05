@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review 
 - 코더 : 정호재
-- 리뷰어 : 
+- 리뷰어 : 류의성
 
 
 # PR(Peer Review)
